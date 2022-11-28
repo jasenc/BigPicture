@@ -12,6 +12,6 @@ This program was made using simple mathematical formulas such as addition, multi
 
 I only ran into a few errors in making this program. One would be the fact that I couldn’t remember to end statements with the semicolon, and the other was that for some reason in my if statement I needed to set my variable to <= 0 instead of just = 0. The latter was just a symantic error. Unfortunately for the customer or whoever may work on this program further I did not run into any major errors to document so I could expedite their processes should they run into problems.
 
-Jasen Carroll
-CS171-064
-1/10/2010
+Jasen Carroll\
+CS171-064\
+1/10/2010\
